@@ -10,5 +10,15 @@
 subgen.env
 
 models/
+watch/
 
 __pycache__/
+
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+
